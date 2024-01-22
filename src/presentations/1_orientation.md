@@ -17,7 +17,7 @@ footer: Programming in Python, IITM Online BS Degree in Data Science
   }
 </style>
 # Python Orientation
-![h:150](/assets/Python.png)
+![h:150](../assets/Python.png)
 **How to Learn Python :snake:**
 Some of the infinite :infinity: number of ways 
 # About the course grading
@@ -33,7 +33,7 @@ Some of the infinite :infinity: number of ways
 
 # Learning Typing
 - Learn fast typing if you are not familiar: http://www.typing-lessons.org/.
-![w:auto h:250](/assets/image.png) ![h:200](/assets/fingers.gif)
+![w:auto h:250](../assets/image.png) ![h:200](../assets/fingers.gif)
 - This helps with programming exams, and most of the other programming courses that you encounter.
 - **30 mins per day for 1 month and your will be a master :martial_arts_uniform:**
  
@@ -43,7 +43,7 @@ Some of the infinite :infinity: number of ways
 <!-- <iframe src=https://bsc-iitm.github.io/python-textbook/ height=400 width= 300> -->
 - **Python's official Documentation**: https://docs.python.org/3/tutorial/index.html
 - **[The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)** - contains links to multiple python resources.
-![h:200](/assets/image-1.png) ![h:200](/assets/python-guide-logo.png)
+![h:200](../assets/image-1.png) ![h:200](../assets/python-guide-logo.png)
 - **[Tutorials Point](https://www.tutorialspoint.com/python/index.htm)**, **[W3Schools](https://www.w3schools.com/python/python_intro.asp)** 
 - **and a bunch of other sites.**
 
@@ -52,7 +52,7 @@ Some of the infinite :infinity: number of ways
 * As a python file and running it. `python filename.py` or `py filename.py`
 * Python REPL `>>>` - running line by line.
 * Notebook environments (Colab, Jypter Notebook, Jupyter Lab) - running cell by cell interactively
-![h:200](/assets/img-001.png)
+![h:200](../assets/img-001.png)
 
 # IDEs for Learning and Experimenting
 
