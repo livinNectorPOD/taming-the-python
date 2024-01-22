@@ -40,7 +40,6 @@ Some of the infinite :infinity: number of ways
 # Learning References for python (Pre-reading)
 
 - **Our own python text book :book:(Try the search  bar in top right)**:  https://bsc-iitm.github.io/python-textbook/
-<!-- <iframe src=https://bsc-iitm.github.io/python-textbook/ height=400 width= 300> -->
 - **Python's official Documentation**: https://docs.python.org/3/tutorial/index.html
 - **[The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)** - contains links to multiple python resources.
 ![h:200](../assets/image-1.png) ![h:200](../assets/python-guide-logo.png)
@@ -50,9 +49,9 @@ Some of the infinite :infinity: number of ways
 
 # Different ways to run python code
 * As a python file and running it. `python filename.py` or `py filename.py`
+![h:200](../assets/img-001.png) ![h:200](../assets/colab.png)
 * Python REPL `>>>` - running line by line.
 * Notebook environments (Colab, Jypter Notebook, Jupyter Lab) - running cell by cell interactively
-![h:200](../assets/img-001.png)
 
 # IDEs for Learning and Experimenting
 
