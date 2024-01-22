@@ -65,7 +65,7 @@ This will come in next line'''
   >**None, NoneType, and places where you could find None in python and places where you could use it with examples**
 ## List - Ordered items - `list`
   - Eg. `[1, "Hello", 2.34, (3,4,4), [2,3,[1,2]]]`
-  - 
+  - Python Book Lesson [5.1-5.5](https://bsc-iitm.github.io/python-textbook/chapter-5/lesson-5.1/)
   - Ask AI
   >**Things I can do with Lists in python a cheatsheet and usecase examples**
   >**Contrast the difference between sorted(L) and L.sort(), and explain how one can sort with key and reverse with examples**
